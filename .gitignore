@@ -2,3 +2,7 @@
 logs/
 17flowers
 .idea
+data
+MNIST_data
+
+
