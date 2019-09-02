@@ -7,3 +7,4 @@ MNIST_data
 venv
 *.pickle
 *.sqlite3
+models
